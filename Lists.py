@@ -21,6 +21,8 @@ print mylist
 mylist.insert(2, -99) # insert in third spot
 print mylist
 
+mylist.append(24)
+
 mylist.sort()
 print mylist
 
